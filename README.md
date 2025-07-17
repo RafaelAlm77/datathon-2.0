@@ -4,7 +4,7 @@ Este projeto foi desenvolvido como solução para o Datathon da Pós-Tech (Fase 
 
 A aplicação web, desenvolvida com Streamlit, permite que um recrutador insira os dados de uma vaga e o currículo de um candidato para receber uma análise preditiva instantânea, auxiliando na tomada de decisão.
 
-**➡️ Link para a aplicação ativa:** [COLOQUE AQUI O LINK DA SUA APLICAÇÃO NO STREAMLIT](https://SEU-LINK-AQUI.streamlit.app/)
+**➡️ Link para a aplicação ativa:** [https://rafaelalm77-datathon-2-0-app-84veeg.streamlit.app/](https://rafaelalm77-datathon-2-0-app-84veeg.streamlit.app/)
 
 ---
 
@@ -40,7 +40,7 @@ Para clonar e executar esta aplicação na sua própria máquina, siga os passos
 
 1.  **Clone o Repositório**
     ```bash
-    git clone [https://github.com/RafaelAlm77/Datathon-5.git](https://github.com/RafaelAlm77/Datathon-5.git)
+    git clone [https://github.com/RafaelAlm77/datathon-2.0.git](https://github.com/RafaelAlm77/datathon-2.0.git)
     cd Datathon-5
     ```
 
@@ -68,20 +68,20 @@ Para clonar e executar esta aplicação na sua própria máquina, siga os passos
     streamlit run app.py
     ```
 
----
+
 
 ## 📁 Estrutura do Projeto
-
+```
 ├── .gitattributes           # Configuração do Git LFS
 ├── .gitignore               # Arquivos a serem ignorados pelo Git
 ├── app.py                   # Script principal da aplicação web com Streamlit
 ├── recruitment_model.joblib   # Modelo treinado (gerenciado pelo LFS)
 ├── requirements.txt         # Lista de dependências Python
 └── README.md                # Este arquivo de instruções
+```
 
-*Observação: As pastas `.git` e `.venv` são ignoradas e não aparecerão no GitHub, mas fazem parte da estrutura local.*
 
----
+
 
 ## ✒️ Autores
 
