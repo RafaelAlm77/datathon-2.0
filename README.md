@@ -89,4 +89,4 @@ Para clonar e executar esta aplicação na sua própria máquina, siga os passos
 * **Marcelo Gonçalves Adade**
 * **Rafael Gustavo Basso Izidio de Almeida**
 * **Athos Matheus Pugliese da Silva**
-* **Murilo Santos**# MVP de IA para Recrutamento - Datathon Pós-Tech
+* **Murilo Santos**
