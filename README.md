@@ -74,17 +74,17 @@ Para clonar e executar esta aplicação na sua própria máquina, siga os passos
     ```
     Uma nova aba abrirá no seu navegador com a aplicação funcionando!
 
----
+
 
 ## 📁 Estrutura do Projeto
-├── .gitattributes           # Configuração do Git LFS (rastreia .joblib e .json)
-├── .gitignore               # Arquivos e pastas a serem ignorados pelo Git (ex: .venv)
+
+├── .gitattributes           # Configuração do Git LFS
+├── .gitignore               # Arquivos a serem ignorados pelo Git
 ├── app.py                   # Script principal da aplicação web com Streamlit
-├── recruitment_model.joblib   # Modelo de Machine Learning treinado (gerenciado pelo LFS)
-├── requirements.txt         # Lista de dependências Python para o projeto
+├── recruitment_model.joblib   # Modelo treinado (gerenciado pelo LFS)
+├── requirements.txt         # Lista de dependências Python
 └── README.md                # Este arquivo de instruções
 
----
 
 ## ✒️ Autores
 
